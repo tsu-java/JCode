@@ -1,2 +1,2 @@
 # JCode
-VSCode copycat using JavaFX
+VSCode copycat using JavaFX.
